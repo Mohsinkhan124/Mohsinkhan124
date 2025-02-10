@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744525814170",
+    "project_id": "project-c5dd2",
+    "storage_bucket": "project-c5dd2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744525814170:android:d7e211818fefbd67be4223",
+        "android_client_info": {
+          "package_name": "com.example.ludo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAstDHHdxGBvHrlnQd7KPIBLbMqTTKr0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
