@@ -76,7 +76,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=mohsinkhan124&theme=dark&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=mohsinkhan124&theme=dark&hide_border=true" width="70%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsinkhan124&theme=github-dark&hide_border=true&area=true" width="100%" />
 </p>
 
