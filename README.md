@@ -70,7 +70,7 @@
 | **MERN E-Commerce** | MongoDB, Express, React, Node.js, JWT, Stripe | [🔗 Live Demo](https://your-demo-link.com) |
 | **Social Media App** | MERN, Socket.io, Cloudinary | [🔗 GitHub](https://github.com/Mohsinkhan124) |
 | **Task Management** | React, Node.js, MongoDB, Tailwind | [🔗 GitHub](https://github.com/Mohsinkhan124) |
-| **Portfolio Website** | React, Framer Motion, GSAP | [🔗 Live](https://mohsin124.netlify.app/) |
+| **Portfolio Website** | React, Framer Motion, GSAP | [🔗 Live](https://mohsinkhanportfolio.netlify.app/) |
 
 ---
 ### 📊 GitHub Stats
