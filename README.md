@@ -17,7 +17,7 @@
 - 💻 I build **scalable, production-grade** web applications
 - 🎨 **UI/UX Enthusiast** — Framer Motion, GSAP, TailwindCSS
 - 🌱 Currently diving deeper into **Next.js, TypeScript, Docker**
-- 🔗 Portfolio: [mohsin124.netlify.app](https://mohsin124.netlify.app/)
+- 🔗 Portfolio: [mohsinkhanportfolio.netlify.app](https://mohsinkhanportfolio.netlify.app/)
 - 📫 Reach me: **mohsinkhantwy@gmail.com**
 - ⚡ Fun fact: I turn complex ideas into **smooth, animated digital experiences**
 
