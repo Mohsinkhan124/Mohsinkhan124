@@ -73,21 +73,19 @@
 | **Portfolio Website** | React, Framer Motion, GSAP | [🔗 Live](https://mohsin124.netlify.app/) |
 
 ---
-
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohsinkhan124&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinkhan124&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=mohsinkhan124&theme=dark&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsinkhan124&theme=github-dark&hide_border=true&area=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=mohsinkhan124&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://img.shields.io/github/followers/Mohsinkhan124?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/Mohsinkhan124?label=Total%20Stars&style=social" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohsinkhan124&theme=algolia&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
-</p>
+---
 
 ---
 
